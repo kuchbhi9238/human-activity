@@ -1,0 +1,7 @@
+streamlit 
+tensorflow
+opencv-python
+opencv-contrib-python
+smtplib
+numpy
+cmake
